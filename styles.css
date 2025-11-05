@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  color: rgb(0, 0, 0);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 128);
+}
+
+a:hover {
+  text-decoration: underline;
+}
